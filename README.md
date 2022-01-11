@@ -1,15 +1,17 @@
 <p id="阿秀的校招笔记"></p>
 
-<h1 align="center">📔 阿秀的校招笔记</h1>
+<h1 align="center">📔 阿秀的求职笔记</h1>
 <div align="left">
 <p>计算机校招、社招面试常见八股文整理，也是<strong>《逆袭进大厂》</strong>的唯一仓库.目前已收录 <strong>C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis</strong>等面试资料，未来打算继续收录<strong>Java、Python、Go</strong>等面试常见问题，坚持将此仓库维护下去。</p>
     </div> 
+
+👉 该求职资料适用于**互联网校招求职应届生**以及**毕业三年内的互联网社招同学~** 作者：[阿秀](Doc/Other/ContactMe/ContactMe.md#关于阿秀)
 
 👉 推荐 [在线阅读](https://interviewguide.cn/#/) (Github 访问速度比较慢可能会导致部分图片无法刷新出来)
 
 👉 **1000**本计算机经典书籍免费下载：[CS-Books](https://github.com/forthespada/CS-Books)
 
-👉 关于 **InterviewGuide** 仓库的介绍，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
+👉 关于 **InterviewGuide** 仓库的由来，请看这里：[InterviewGuide的前世今生](https://github.com/forthespada/InterviewGuide/issues/6)
 
 :book:**PDF下载方式**：[点此免费下载](#downloadpdf)
 
@@ -47,25 +49,22 @@
   - [C++11新标准](Doc/Knowledge/C++/C++11新标准/C++11新标准.md#西加加十一有哪些新特性)
   - [STL模板库](Doc/Knowledge/C++/STL模板库/STL模板库.md#什么是stl)
   - [其余问题](Doc/Knowledge/C++/其余问题/其余问题.md#如何实现)
-  
+- [**Java**](Doc/Knowledge/Java/README.md)
+- [**Python**](Doc/Knowledge/Python/README.md)
+- [**Golang**](Doc/Knowledge/Golang/README.md)
+- [**前端**](Doc/Knowledge/前端/README.md)
 - **算法**
   - [算法基础](Doc/Knowledge/算法/算法基础/十大排序.md#算法基础)
   - [高频面试真题](Doc/Knowledge/算法/精选高频面试题/精选高频面试题.md#精选高频面试题)
   - [带你快速刷完67道剑指offer](Doc/Knowledge/算法/带你快速刷完67道剑指offer/README.md#带你快速刷完67道剑指offer)
   - [精选力扣300+道算法题](Doc/Knowledge/算法/LeetCode题解/README.md)
-  
 - **[操作系统](Doc/Knowledge/操作系统/操作系统.md#进程线程和协程的区别和联系)**
-
 - **[计算机网络](Doc/Knowledge/计算机网络/计算机网络.md#偶爱死的七层模型分别是各自的功能是什么)**
-
 - **数据库**
   - [MySQL](Doc/Knowledge/数据库/MySQL/MySQL.md#数据库第一部分)
   - [Redis](Doc/Knowledge/数据库/Redis/Redis.md#数据库第二部分)
-  
 - **[智力&情景题](Doc/Knowledge/智力&情景题/智力&情景题.md#智力题情景题)**
-
 - **[技术面与HR面](Doc/Knowledge/技术面与HR面/技术面与HR面.md#技术面与面)**
-
 - **[未完待续.....](Doc/Knowledge/未完待续/README.md)**
 
 **📝 精品资源**
