@@ -1,0 +1,10 @@
+/.idea/
+*.json
+/node_modules/
+/site/
+/.temp/
+*.xmind
+/docs/.vuepress/
+/docs/README.md
+.babelrc
+*.zip
